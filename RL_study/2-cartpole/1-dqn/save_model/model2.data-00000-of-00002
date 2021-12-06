@@ -1,0 +1,30 @@
+¸óˆ¸a
+
+fc1
+fc2
+
+fc_out
+
+
+kernel
+bias
+
+
+kernel
+bias
+
+
+kernel
+	bias
+KI
+VARIABLE_VALUEdqn/dense/kernel%fc1/kernel/.ATTRIBUTES/VARIABLE_VALUE
+GE
+VARIABLE_VALUEdqn/dense/bias#fc1/bias/.ATTRIBUTES/VARIABLE_VALUE
+MK
+VARIABLE_VALUEdqn/dense_1/kernel%fc2/kernel/.ATTRIBUTES/VARIABLE_VALUE
+IG
+VARIABLE_VALUEdqn/dense_1/bias#fc2/bias/.ATTRIBUTES/VARIABLE_VALUE
+PN
+VARIABLE_VALUEdqn/dense_2/kernel(fc_out/kernel/.ATTRIBUTES/VARIABLE_VALUE
+LJ
+VARIABLE_VALUEdqn/dense_2/bias&fc_out/bias/.ATTRIBUTES/VARIABLE_VALUE
