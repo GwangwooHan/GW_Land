@@ -243,3 +243,6 @@ def main():  # 전체 global 함수 지정
 
 if __name__ == "__main__":
     main()
+
+
+## 변경됐는지 봐볼까?
